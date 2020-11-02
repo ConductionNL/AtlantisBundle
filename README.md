@@ -1,2 +1,2 @@
 # AtlantisBundle
-Bundle for the Atlantis theme
+This bundle provides the Atlantis theme for symfony

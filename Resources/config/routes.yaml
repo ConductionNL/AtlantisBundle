@@ -1,0 +1,4 @@
+# config/routes.yaml
+conduction_atlantis_default_index:
+    path:       /
+    controller: Conduction\AtlantisBundle\Controller\DefaultController::indexAction
